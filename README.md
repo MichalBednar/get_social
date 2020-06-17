@@ -12,4 +12,6 @@
 
 Please note that this is my first app, but I'm definitely open to critique and other ideas.
 
-Happy Coding!!!
+Made with :heart: in Prague.
+
+Happy Coding!! :computer:
