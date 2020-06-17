@@ -1,6 +1,6 @@
 # get_social
 
-****__ Social media scraping app created with python. 
+** ** and _ _ Social media scraping app created with python. 
 
 What this app do is:
 
