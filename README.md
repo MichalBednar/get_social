@@ -8,7 +8,7 @@ What this app basically do is:
 ![bash view](gifs/type_website_url.gif)
 
 4. Prints & Saves those links into separate .txt file
-!(gifs/download_social_links.gif)
+![bash view 2](gifs/download_social_links.gif)
 
 Please note that this is my first app, but I'm definitely open to critique and other ideas.
 
